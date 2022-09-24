@@ -1,0 +1,10 @@
+﻿main.obj : error LNK2019: 无法解析的外部符号 __imp_glutInitWindowPosition，该符号在函数 main 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 __imp_glutInitWindowSize，该符号在函数 main 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 __imp_glutInitDisplayMode，该符号在函数 main 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 __imp_glutMainLoop，该符号在函数 main 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 __imp___glutInitWithExit，该符号在函数 glutInit_ATEXIT_HACK 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 __imp___glutCreateWindowWithExit，该符号在函数 glutCreateWindow_ATEXIT_HACK 中被引用
+D:\chuxuezhe\chuxuezhe\a.1.graphics\a.2.mooc\a.2.2.GrapTech\GrapTech\ThirdParty\glew\lib\glew32sd.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+D:\chuxuezhe\chuxuezhe\a.1.graphics\a.2.mooc\a.2.2.GrapTech\GrapTech\ThirdParty\freeglut\lib\freeglut_staticd.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+D:\chuxuezhe\chuxuezhe\a.1.graphics\a.2.mooc\a.2.2.GrapTech\GrapTech\ThirdParty\freeglut\lib\freeglutd.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+D:\chuxuezhe\chuxuezhe\a.1.graphics\a.2.mooc\a.2.2.GrapTech\GrapTech\x64\Debug\OpenGLVersion.exe : fatal error LNK1120: 6 个无法解析的外部命令
